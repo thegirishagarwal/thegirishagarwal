@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @thegirishagarwal
-- 👀 I’m interested in playing flute
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking for job change in Angular
 - 📫 How to reach me thegirishagarwal@gmail.com
